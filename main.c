@@ -1,4 +1,10 @@
-#include <stdint.h>
+//Part 1:
+
+//Create a PWM waveform with frequency = 100KHz and variable duty cycle.
+
+//The program should begin with d = 50%.
+
+On pressing one switch the duty should be increased by 5% and on pressing other switch it should be decreased by 5%#include <stdint.h>
 #include <stdbool.h>
 #include "tm4c123gh6pm.h"
 
