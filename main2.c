@@ -1,4 +1,8 @@
-//Lab 6 part 2
+//Part 2:
+
+//Implement the same but using only 1 switch (SW1 OR SW2) – short press for d increase and long press for decrease.
+
+
 
 #include <stdint.h>
 #include <stdbool.h>
